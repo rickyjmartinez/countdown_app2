@@ -3,7 +3,7 @@ import CountdownTimer from './Components/CountdownTimer/CountdownTimer';
 
 function App() {
 
-  const countdownTimestampMs = Date.now() + 7200000; // Example: two hours from now
+  const countdownTimestampMs = Date.now() + 1500000; // Example: 25 min counter
 
   return (
     <div className ="App">
